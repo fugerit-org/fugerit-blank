@@ -1,0 +1,2 @@
+# fugerit-blank
+Blank project
